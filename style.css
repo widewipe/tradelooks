@@ -4,6 +4,16 @@ button{
     border: none;
     font-family: 'Poppins', sans-serif;
     border-radius: 500px;
+    cursor: pointer;
+}
+nav p{
+    cursor: pointer;
+}
+.logo{
+    cursor: pointer;
+}
+.ft, .ct{
+    cursor: pointer;
 }
 
 nav{
